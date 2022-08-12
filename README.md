@@ -205,7 +205,7 @@ local ui =  game:GetService("CoreGui"):FindFirstChild("redui") if ui then ui:Des
 		ScrollingFrame_Menubar.BorderSizePixel = 0
 		ScrollingFrame_Menubar.Size = UDim2.new(0, 500, 0, 35)
 		ScrollingFrame_Menubar.CanvasSize = UDim2.new(2, 0, 0, 0)
-		ScrollingFrame_Menubar.ScrollBarImageColor3 = Color3.fromRGB(249, 53, 139)
+		ScrollingFrame_Menubar.ScrollBarImageColor3 = Color3.fromRGB(0, 128, 255)
 		ScrollingFrame_Menubar.ScrollBarThickness = 3
 
 
