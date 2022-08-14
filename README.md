@@ -784,7 +784,7 @@ local ui =  game:GetService("CoreGui"):FindFirstChild("redui") if ui then ui:Des
 			LockerImageLabel.Position = UDim2.new(0.5, 0, 0.5, 0)
 			LockerImageLabel.AnchorPoint = Vector2.new(0.5, 0.5)
 			LockerImageLabel.Size = UDim2.new(0, 0, 0, 0)
-			LockerImageLabel.Image = "http://www.roblox.com/asset/?id=6031082533"
+			LockerImageLabel.Image = "http://www.roblox.com/asset/?id=6022668898"
 
 
 			function check.togfunction:lock()
@@ -1104,7 +1104,7 @@ local ui =  game:GetService("CoreGui"):FindFirstChild("redui") if ui then ui:Des
 				Addvalue.BorderSizePixel = 0
 				Addvalue.Position = UDim2.new(0.85, 0, 0.35, 0)
 				Addvalue.Size = UDim2.new(0, 15, 0, 15)
-				Addvalue.Image = "http://www.roblox.com/asset/?id=6035067836"
+				Addvalue.Image = "http://www.roblox.com/asset/?id=6022668898"
 				Addvalue.ImageColor3 =  Color3.fromRGB(0,128,255)
 
 				local Deletevalue = Instance.new("ImageButton")
@@ -1115,7 +1115,7 @@ local ui =  game:GetService("CoreGui"):FindFirstChild("redui") if ui then ui:Des
 				Deletevalue.BorderSizePixel = 0
 				Deletevalue.Position = UDim2.new(0.7, 0, 0.35, 0)
 				Deletevalue.Size = UDim2.new(0, 15, 0, 15)
-				Deletevalue.Image = "http://www.roblox.com/asset/?id=6035047377"
+				Deletevalue.Image = "http://www.roblox.com/asset/?id=6022668898"
 				Deletevalue.ImageColor3 =  Color3.fromRGB(0,128,255)
 
 
@@ -1663,7 +1663,7 @@ local ui =  game:GetService("CoreGui"):FindFirstChild("redui") if ui then ui:Des
 				Addvalue.BorderSizePixel = 0
 				Addvalue.Position = UDim2.new(0.85, 0, 0.35, 0)
 				Addvalue.Size = UDim2.new(0, 15, 0, 15)
-				Addvalue.Image = "http://www.roblox.com/asset/?id=6035067836"
+				Addvalue.Image = "http://www.roblox.com/asset/?id=6022668898"
 				Addvalue.ImageColor3 =  Color3.fromRGB(0,128,255)
 
 				local Deletevalue = Instance.new("ImageButton")
@@ -1674,7 +1674,7 @@ local ui =  game:GetService("CoreGui"):FindFirstChild("redui") if ui then ui:Des
 				Deletevalue.BorderSizePixel = 0
 				Deletevalue.Position = UDim2.new(0.7, 0, 0.35, 0)
 				Deletevalue.Size = UDim2.new(0, 15, 0, 15)
-				Deletevalue.Image = "http://www.roblox.com/asset/?id=6035047377"
+				Deletevalue.Image = "http://www.roblox.com/asset/?id=6022668898"
 				Deletevalue.ImageColor3 =  Color3.fromRGB(0,128,255)
 
 				local function move(input)
@@ -2430,7 +2430,7 @@ local ui =  game:GetService("CoreGui"):FindFirstChild("redui") if ui then ui:Des
 				listimage.Position = UDim2.new(0.5, 0, 0.5, 0)
 				listimage.BorderSizePixel = 0
 				listimage.Size = UDim2.new(0, 0, 0, 0)
-				listimage.Image = "http://www.roblox.com/asset/?id=5880482965"
+				listimage.Image = "http://www.roblox.com/asset/?id=6022668898"
 
 
 				local textlist = Instance.new("TextLabel")
@@ -3203,7 +3203,7 @@ local ui =  game:GetService("CoreGui"):FindFirstChild("redui") if ui then ui:Des
 			HueSelection.BackgroundTransparency = 1.000
 			HueSelection.Position = UDim2.new(preset and select(3, Color3.toHSV(preset)))
 			HueSelection.Size = UDim2.new(0, 18, 0, 18)
-			HueSelection.Image = "http://www.roblox.com/asset/?id=4805639000"
+			HueSelection.Image = "http://www.roblox.com/asset/?id=6022668898"
 			HueSelection.ScaleType = Enum.ScaleType.Fit
 			HueSelection.Visible = true
 
@@ -3569,7 +3569,7 @@ local ui =  game:GetService("CoreGui"):FindFirstChild("redui") if ui then ui:Des
 				ImageLabel_gx.Size = UDim2.new(0, 18, 0, 18)
 				ImageLabel_gx.AnchorPoint = Vector2.new(0.5, 0.5)
 				ImageLabel_gx.Position = UDim2.new(0.06, 0, 0.45, 0)
-				ImageLabel_gx.Image = "http://www.roblox.com/asset/?id="..tostring(image)
+				ImageLabel_gx.Image = "http://www.roblox.com/asset/?id=6022668898"
 				ImageLabel_gx.BackgroundTransparency = 1
 
 				local noticore55 = Instance.new("UICorner")
