@@ -3142,7 +3142,7 @@ local ui =  game:GetService("CoreGui"):FindFirstChild("redui") if ui then ui:Des
 			Color.Size = UDim2.new(0, 195, 0, 40)
 			Color.ZIndex = 0
 			Color.BorderSizePixel = 0
-			Color.Image = "rbxassetid://4155801252"
+			Color.Image = "rbxassetid://6022668898"
 
 			local ColorFucj = Instance.new("UICorner")
 
@@ -3159,7 +3159,7 @@ local ui =  game:GetService("CoreGui"):FindFirstChild("redui") if ui then ui:Des
 			ColorSelection.BackgroundTransparency = 1.000
 			ColorSelection.Position = UDim2.new(preset and select(3, Color3.toHSV(preset)))
 			ColorSelection.Size = UDim2.new(0, 18, 0, 18)
-			ColorSelection.Image = "http://www.roblox.com/asset/?id=4805639000"
+			ColorSelection.Image = "http://www.roblox.com/asset/?id=6022668898"
 			ColorSelection.ScaleType = Enum.ScaleType.Fit
 			ColorSelection.Visible = true
 
